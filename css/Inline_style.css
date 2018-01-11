@@ -1,0 +1,131 @@
+.row_margin_top{
+    margin-top: 34px;
+}
+
+.BlogUser_font {
+    font-size: 14px;
+}
+
+.img-margin {
+    margin-top:5px;
+}
+
+.plan_name {
+    margin-top: 5px; 
+    margin-bottom: 29px;
+}
+
+.plan_heading {    
+    font-size: X-Large; 
+    font-weight: bold; 
+    color: white;
+}
+
+.plan_amount {
+    font-weight: bold;
+}
+
+.Monthly_fees {
+    font-size: 25px;
+    color:#000;
+}
+
+.Monthly_fees2 {
+    color: #fff;
+    font-weight: bold;
+}
+
+.VAT {
+    margin-top: -16px; 
+    color:#000;
+}
+
+.Clear_Content {
+    clear: both;
+}
+
+.center_content {
+    text-align: center;
+}
+
+.Info_img {
+    margin-top: -15px;
+}
+
+.color_amt {
+    color: #055e8d;
+    font-weight: bold;
+}
+
+.Sub_btn {
+    margin-top: 12px;
+}
+
+.Mon_fees_font {
+    font-size: 25px;
+}
+
+.VAT2 {
+    margin-top: -16px;
+}
+
+.pad_lit {
+    padding: 10px;
+}
+
+.plan_amt {
+    color: #fff;
+}
+
+.Roledesc_text {
+    text-align: left !important;
+}
+
+.disp {
+    display: none;
+}
+
+.red_font {
+    color: red;
+}
+
+.color_mailid {
+    color: #656565;
+}
+
+.logo_align {
+    text-align: -moz-center;
+}
+
+.logo_width {
+     width: 200px; 
+}
+
+.Uname {
+     margin-top: 10px;
+}
+
+.bglogin {
+    background-color: #4C2E80;
+}
+
+.msgWidth {
+    width: 100%;
+}
+
+.divtopmar {
+    margin-top: -5px;
+}
+
+.divMarginTop {
+    margin-top: 15px;    
+}
+
+.submit2 {
+    background-color: #4C2E80;
+    color: white;
+}
+
+.captcha_pad {
+    padding-bottom: 5px;
+}
